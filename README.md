@@ -30,20 +30,20 @@
 #### 4.6 列表
 ##### 4.6.1 无序列表
 - item-1
-  1. item-1
-  2. item-1
-  3. item-1
+    1. item-1
+    2. item-1
+    3. item-1
 + item-2
 * item-3
 ##### 4.6.2 有序列表
 1. item-1
-  - item-1
-  - item-2
-  - item-3
+    - item-1
+    - item-2
+    - item-3
 2. item-2
-  1. item-1
-  2. item-2
-  3. item-3
+    1. item-1
+    2. item-2
+    3. item-3
 3. item-3
 
 #### 4.7 表格
@@ -69,15 +69,15 @@ select * from t_user u where u.username='zhangsan';
 
 #### 4.9 TODO
 - [ ] **V1.0**
-  - [x] func-1
-  - [x] func-2
-  - [ ] func-3
+    - [x] func-1
+    - [x] func-2
+    - [ ] func-3
 - [ ] **V2.0**
-  - [ ] func-1
-  - [ ] func-2
+    - [ ] func-1
+    - [ ] func-2
 
 #### 4.10 Github表情
-:email: **someone@gmail.com**
+:email: **aaric@gmail.com**
 
 #### 4.11 流程图
 ```flow
