@@ -20,7 +20,7 @@
 ***
 
 #### 4.4 图片
-![百度LOGO](https://www.baidu.com/img/bd_logo1.png "百度图片")
+![Github](https://github.com/aaric/markdown-achieve/raw/master/github.png "Github Logo")
 
 
 #### 4.5 超链接
